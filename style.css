@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-color:#004cc7;
+}
+.logo{
+    width: 800px;
+    height: 500px;
+}
+nav{
+    overflow: hidden;
+    list-style-type: none;
+    font-size: 30px;
+    text-align:left;
+}
+a{ 
+    padding: 5px 5px
+}
+a:hover{
+    background-color:darkgray;
+}
+img{
+    width: 360px;
+    height: 500px;
+}
+table, tr, td{
+    border:5px solid black; 
+    border-radius: 3px;
+    border-collapse: collapse;
+    padding: 8px 10px;
+}
+.leftside, .rightside{
+    height: 100vh;
+    width: 100%;
+}
+.socks{
+    width: 400px;
+    height: 400px;
+}
+.instruction{
+text-align: left;
+}
+.elite{
+    width:300px ;
+    height:300px;
+}
+.icon{
+    font-size: 100px;
+    color: black;
+    text-align: left;
+    padding: 50px;
+}
+.social-icon:hover{
+    background-color: none;
+}
+    
+
+
